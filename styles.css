@@ -1,3 +1,14 @@
 body{
     font-family: Verdana, Helvetica, sans-serif;
 }
+
+.festive {
+    background-color: lightyellow;
+    color: darkorange;
+}
+
+#header {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 36px;
+}
